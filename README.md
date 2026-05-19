@@ -55,6 +55,6 @@ gender count, overtime analysis, job role salaries, and tenure stats
 
 ## Screenshots
 
-![HR Overview](Screenshots/HR%20overview.png.png)
+![HR Overview](Screenshots/HR%20overview.png)
 ![Attrition Analysis](Screenshots/Attrition%20analysis.png)
 ![Salary Analysis](Screenshots/Salary%20anlaysis.png)
